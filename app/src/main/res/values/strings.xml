@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Автомито</string>
+    <string name="action_settings">Поділитись</string>
+    <string name="mito">Мито:</string>
+    <string name="povna_vartist">Повна вартість тут:</string>
+    <string name="akciz">Акциз:</string>
+    <string name="pdv">ПДВ:</string>
+    <string name="pensi_fond">Пенсійний фонд:</string>
+    <string name="vartist_za">Ціна там:</string>
+    <string name="obem">Обєм двигуна, л:</string>
+    <string name="rik">Вік авто:</string>
+    <string name="tip_dvs">Тип двигуна:</string>
+    <string name="benzo">Бензин</string>
+    <string name="dizel">Дизель</string>
+    <string name="inwe">Інші витрати:</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4882550262749386/9210116702</string>
+</resources>
